@@ -19,8 +19,3 @@ A Mini-project developed for a college assignment. Involves the use of `pandas`,
 - Model testing with optimized hyperparameters
 - Use of both models to predict values of testing dataset
 
-## Contributors
-- *Suvaditya Mukherjee* - [@suvadityamuk](https://github.com/suvadityamuk)
-- *Sahil Patki* - [@SahilPatki30082002](https://github.com/sahilpatki30082002)
-- *Maitri Shah* - [@maitri01](https://github.com/maitri01)
-
